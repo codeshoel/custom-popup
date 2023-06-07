@@ -1,0 +1,46 @@
+
+body{
+    background-color: #f1f1f1f1;
+}
+
+div .card-header{
+    background-color: #FB6107 !important;
+}
+
+div .card-header h6{
+    font-size: 14px !important;
+    font-weight: 400;
+}
+
+div .card{
+    background-color: #ffffff !important;
+    border: 1px solid transparent !important;
+}
+
+div .card-body{
+    background-color: #ffffff !important;
+}
+
+div .card-body div label{
+    font-size: 12px !important;
+}
+
+
+.form-control:focus{
+    outline: 0px !important;
+    border: 2px solid #222 !important;
+    box-shadow: 0px 0px 0px 0px #4444 !important;
+}
+
+.form-select:focus{
+    outline: 0px !important;
+    box-shadow: 0px 0px 0px 0px #4444 !important;
+}
+
+
+.save-electoriate-btn{
+    background-color: #5CB85C !important;
+    color: #ffff !important;
+}
+
+
